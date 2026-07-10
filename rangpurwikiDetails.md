@@ -1,18 +1,7 @@
 
 # রংপুর: শহর ও জেলা
 
-### ইতিহাস, ভূগোল, প্রশাসন, অর্থনীতি, শিক্ষা, সংস্কৃতি ও দর্শনীয় স্থান
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tajhat_Rajbari_-_Side_View_%28cropped%29.jpg/800px-Tajhat_Rajbari_-_Side_View_%28cropped%29.jpg" alt="তাজহাট জমিদার বাড়ি, রংপুর" width="820">
-
-**ছবি:** তাজহাট জমিদার বাড়ি, রংপুর  
-[ছবির উৎস ও লাইসেন্স তথ্য](https://commons.wikimedia.org/wiki/File:Tajhat_Rajbari_-_Side_View_(cropped).jpg)
-
-</div>
-
-> **নোট:** এই নথিটি বাংলা উইকিপিডিয়ার **রংপুর** ও **রংপুর জেলা** নিবন্ধের তথ্য সংক্ষিপ্ত, সংশোধিত ও পুনর্বিন্যস্ত করে তৈরি করা হয়েছে। জনসংখ্যা, প্রশাসনিক সংখ্যা ও অন্যান্য পরিসংখ্যান সময়ের সঙ্গে পরিবর্তিত হতে পারে। সরকারি বা গবেষণামূলক কাজে ব্যবহারের আগে সংশ্লিষ্ট সরকারি উৎস যাচাই করা উচিত।
-
----
 
 ## সূচিপত্র
 
@@ -58,6 +47,18 @@
 
 ## এক নজরে রংপুর শহর
 
+<div align="center">
+<img src="images/Rangpur_City_Corporation_in_Rangpur_division.webp" alt="রংপুর সিটি কর্পোরেশনের অবস্থান" width="400">
+
+**রংপুর সিটি কর্পোরেশন**
+</div>
+
+<div align="center">
+<img src="images/Rangpur_city_corporation_mahallah_geocode_map_-.webp" alt="রংপুর সিটি কর্পোরেশনের মহল্লার ম্যাপ" width="400">
+
+**রংপুর সিটি কর্পোরেশনের মহল্লার ম্যাপ**
+</div>
+
 | বিষয় | তথ্য |
 |---|---|
 | দেশ | বাংলাদেশ |
@@ -83,10 +84,9 @@
 ## এক নজরে রংপুর জেলা
 
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bangladesh_Rangpur_district_locator_map.svg/500px-Bangladesh_Rangpur_district_locator_map.svg.png" alt="বাংলাদেশের মানচিত্রে রংপুর জেলার অবস্থান" width="400">
+<img src="images/Bangladesh_Rangpur_division_location_map.webp" alt="বাংলাদেশের মানচিত্রে রংপুর জেলার অবস্থান" width="400">
 
-**বাংলাদেশের মানচিত্রে রংপুর জেলা**  
-[ছবির উৎস ও লাইসেন্স তথ্য](https://commons.wikimedia.org/wiki/File:Bangladesh_Rangpur_district_locator_map.svg)
+**বাংলাদেশের মানচিত্রে রংপুর জেলা**
 </div>
 
 | বিষয় | তথ্য |
@@ -308,9 +308,7 @@
 ### ১. তাজহাট জমিদার বাড়ি
 
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tajhat_Rajbari.JPG/700px-Tajhat_Rajbari.JPG" alt="তাজহাট রাজবাড়ি" width="700">
-
-[ছবির উৎস ও লাইসেন্স তথ্য](https://commons.wikimedia.org/wiki/File:Tajhat_Rajbari.JPG)
+<img src="images/Tajhat_Rajbari_.webp" alt="তাজহাট রাজবাড়ি" width="700">
 </div>
 
 রংপুর শহরের দক্ষিণাংশে অবস্থিত তাজহাট জমিদার বাড়ি উত্তরবঙ্গের অন্যতম গুরুত্বপূর্ণ ঐতিহাসিক স্থাপনা। ঔপনিবেশিক যুগের স্থাপত্যশৈলী, সিঁড়ি, গম্বুজ, স্তম্ভ ও সুবিস্তৃত প্রাঙ্গণ এর প্রধান আকর্ষণ। পরবর্তী সময়ে ভবনটি আদালত হিসেবে ব্যবহৃত হয় এবং সংস্কারের পর জাদুঘরে রূপান্তরিত করা হয়।
@@ -318,9 +316,7 @@
 ### ২. রংপুর টাউন হল
 
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Rangpur_Town_Hall.jpg/700px-Rangpur_Town_Hall.jpg" alt="রংপুর টাউন হল" width="700">
-
-[ছবির উৎস ও লাইসেন্স তথ্য](https://commons.wikimedia.org/wiki/File:Rangpur_Town_Hall.jpg)
+<img src="images/Rangpur_Town_Hall.webp" alt="রংপুর টাউন হল" width="700">
 </div>
 
 রংপুর টাউন হল শহরের সাংস্কৃতিক ইতিহাসের সঙ্গে গভীরভাবে যুক্ত একটি পুরোনো অডিটোরিয়াম। সভা, নাটক, সংগীতানুষ্ঠান ও সামাজিক-সাংস্কৃতিক কার্যক্রমের জন্য এটি ব্যবহৃত হয়ে আসছে।
@@ -359,7 +355,15 @@
 
 মিঠাপুকুরের ঐতিহাসিক মসজিদগুলোর একটি। এর স্থাপত্যে প্রাচীন বাংলার মসজিদ নির্মাণশৈলীর বৈশিষ্ট্য দেখা যায়।
 
-### ১০. অন্যান্য উল্লেখযোগ্য স্থান
+### ১০. রংপুর সিটি মসজিদ
+
+<div align="center">
+<img src="images/Rangpur_City_Mosque.webp" alt="রংপুর সিটি মসজিদ" width="700">
+</div>
+
+রংপুর শহরের একটি প্রধান মসজিদ।
+
+### ১১. অন্যান্য উল্লেখযোগ্য স্থান
 
 - মন্থনা জমিদার বাড়ি
 - ইটাকুমারী জমিদার বাড়ি
@@ -384,9 +388,7 @@
 - তিস্তা ইউনিভার্সিটি—বেসরকারি
 
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Academic_Building_1_%26_2_of_Begum_Rokeya_University%2C_Rangpur.jpg/700px-Academic_Building_1_%26_2_of_Begum_Rokeya_University%2C_Rangpur.jpg" alt="বেগম রোকেয়া বিশ্ববিদ্যালয়" width="700">
-
-[ছবির উৎস ও লাইসেন্স তথ্য](https://commons.wikimedia.org/wiki/File:Academic_Building_1_%26_2_of_Begum_Rokeya_University,_Rangpur.jpg)
+<img src="images/rokeya university.webp" alt="বেগম রোকেয়া বিশ্ববিদ্যালয়" width="700">
 </div>
 
 ### প্রধান কলেজ
@@ -439,9 +441,7 @@
 রংপুর মেডিকেল কলেজ ও হাসপাতাল উত্তরাঞ্চলের অন্যতম প্রধান সরকারি চিকিৎসা ও চিকিৎসাশিক্ষা প্রতিষ্ঠান। এছাড়া সরকারি ও বেসরকারি পর্যায়ে বিভিন্ন হাসপাতাল, ক্লিনিক, ডেন্টাল কলেজ ও মেডিকেল কলেজ রয়েছে।
 
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/%E0%A6%B0%E0%A6%82%E0%A6%AA%E0%A7%81%E0%A6%B0_%E0%A6%AE%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%B2_%E0%A6%95%E0%A6%B2%E0%A7%87%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8_%E0%A6%AB%E0%A6%9F%E0%A6%95.jpg/700px-%E0%A6%B0%E0%A6%82%E0%A6%AA%E0%A7%81%E0%A6%B0_%E0%A6%AE%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%B2_%E0%A6%95%E0%A6%B2%E0%A7%87%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8_%E0%A6%AB%E0%A6%9F%E0%A6%95.jpg" alt="রংপুর মেডিকেল কলেজের প্রধান ফটক" width="700">
-
-[ছবির উৎস ও লাইসেন্স তথ্য](https://commons.wikimedia.org/wiki/File:%E0%A6%B0%E0%A6%82%E0%A6%AA%E0%A7%81%E0%A6%B0_%E0%A6%AE%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%B2_%E0%A6%95%E0%A6%B2%E0%A7%87%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8_%E0%A6%AB%E0%A6%9F%E0%A6%95.jpg)
+<img src="images/Rangpur_Medical_college.webp" alt="রংপুর মেডিকেল কলেজের প্রধান ফটক" width="700">
 </div>
 
 ### উল্লেখযোগ্য প্রতিষ্ঠান
@@ -514,37 +514,7 @@
 - মশিউর রহমান যাদু মিয়া—রাজনীতিবিদ
 - আবু সাঈদ—২০২৪ সালের কোটা সংস্কার আন্দোলনে পরিচিত ছাত্রনেতা
 
-> এই তালিকা পূর্ণাঙ্গ নয়; রংপুর জেলার ব্যক্তিবর্গ নিয়ে পৃথক বিস্তৃত তালিকা রয়েছে।
 
----
-
-## ছবির গ্যালারি
-
-### রংপুর জেলা পরিষদ
-
-<div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Rangpur_Zilla_Parishad.jpg/700px-Rangpur_Zilla_Parishad.jpg" alt="রংপুর জেলা পরিষদ" width="700">
-
-[ছবির উৎস ও লাইসেন্স তথ্য](https://commons.wikimedia.org/wiki/File:Rangpur_Zilla_Parishad.jpg)
-</div>
-
-### তাজহাট জমিদার বাড়ির পার্শ্বদৃশ্য
-
-<div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tajhat_Rajbari_-_Side_View_%28cropped%29.jpg/700px-Tajhat_Rajbari_-_Side_View_%28cropped%29.jpg" alt="তাজহাট জমিদার বাড়ির পার্শ্বদৃশ্য" width="700">
-
-[ছবির উৎস ও লাইসেন্স তথ্য](https://commons.wikimedia.org/wiki/File:Tajhat_Rajbari_-_Side_View_(cropped).jpg)
-</div>
-
-### বেগম রোকেয়া বিশ্ববিদ্যালয়ের ক্যাম্পাস
-
-<div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Campus_Rear_Of_Begum_Rokeya_University%2C_Rangpur.jpg/700px-Campus_Rear_Of_Begum_Rokeya_University%2C_Rangpur.jpg" alt="বেগম রোকেয়া বিশ্ববিদ্যালয় ক্যাম্পাস" width="700">
-
-[ছবির উৎস ও লাইসেন্স তথ্য](https://commons.wikimedia.org/wiki/File:Campus_Rear_Of_Begum_Rokeya_University,_Rangpur.jpg)
-</div>
-
----
 
 ## তথ্যসূত্র ও ছবির কৃতিত্ব
 
